@@ -1,0 +1,58 @@
+
+body {
+  background-image: url(Weeping_Angels_Animation_by_GlitchyProductions.gif);
+  background-size: cover;
+}
+
+  h1  {
+  color: yellowgreen;
+  text-align: center;
+  text-transform: none;
+  font-size: 42px;
+}
+
+h2 {
+  text-align:center;
+  font-size:75px;
+  color:yellowgreen;
+}
+
+
+h4 {
+  text-align:center;
+  font-size:42px;
+  color:yellowgreen;
+}
+
+h5 {
+  text-align:center;
+  font-size: 40px;
+  color:yellowgreen;
+  margin:40px;
+  ;
+}
+
+h6 {
+  text-align: center;
+  font-size:42px;
+  color:yellowgreen;
+
+}
+
+pre {
+    text-align:center;
+    color:yellowgreen;
+    font-size: 42px;
+  }
+
+table {
+  text-align:center;
+  font-size:large;
+  color:yellowgreen;
+  margin: auto;
+  width:200px;
+}
+ th{
+  text-align:center;
+  color:yellowgreen;
+ }
